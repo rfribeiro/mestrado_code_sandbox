@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "driver-gaze-data",
+  "private_key_id": "3d2d79caffac2fd4159c9cc86c42ddf88dbcb422",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQC9JF5awrMrOZxV\n/EvjwcLNb3kARuIjlmjRUWZNV5XKt1r0Rs5DLFSxLMxCKHZpXsDgeM0D05/kpsOx\ntVSmPhsMYUDo3JJ5C2jbAqAjRU1P0VjQBWj2PF7daMjbu3kGAXbsIaIVLb5kEYlY\nvw9fmDq9dBCPZ2nk1SI22yeDjbYwmHC5MwvepmjACEAYsQfcEfTjGicPJxOxtyz2\nSx7Lj+13IUJf5a2VBYfeLXn/Rqii7ka66UssAHFY0zBqfP6cjZFxPzQP7Bi5v2mA\nS9nUpCIWOVgXMs0rLPFM1t9uR22ymGP3NA5MRDgd1U/zofH64Z1oQPt2/x+6Tqum\nUA+GtYrDAgMBAAECggEADobgDlV84FmE5d/CTmRf21pv7zMChFw1gbogQtlywkaR\n4Egd6G/bs13u9DfaXF5wLu1oRZ533d5nEluMfFYxyqIfk6L5Rv222HdbqEnW1cYM\n7bE0rhDV8mhtYN8FvQ3YvesZYUoJoPLt2xiVjDCLdmiXKwR00CQEhDUR1FtKfnHd\nBswe1deM/UM7F7Z2hKP8dFiaR2V21S3KChNV2PwmhrnHrvqFG78rddDAacDhGTq5\nsUnHvOWL1m7UKr1P8BlomKqXb/MDt3rJKY0ke6eMdXiofYNNf18TfzKM9PGU/DjG\nl9grTEpdmNpdJy0/92l+pcmiKNeohbTdmrrnGsN4hQKBgQDkynB36AfWiCGtarW7\nY196sfVgkf8Lgr8asvNkdgOMSFcBzx96PlGNch9vLJPAMl1qpnCf/q+7V17J6UfL\nFIcmfG6AZw+RFs4Inw28wSKDugXvdP2igotc8ouc/6vUv9+WvpHajbVEeHOJ/KQV\nh4yfuocf4ZmMde7enJyvk869xwKBgQDTotHavGQxflret5DWrRt/L0jNgey+bifK\nqP3DA8rPC4dtgw6rqHh2Xee70B2XvvluJaNDDyQr+YmhCkzKfG/dTzvBVrNm1SQN\nbZlAaIQUWkMgTZajSblc5vfeMFQk0i8ilRUV/mdjk3tA47iO4cZaZ/VQnKdK0zFT\nQCUnxC77JQKBgGyB/nk/2IfMpHxEwdAPvzbHs+KLG3TwG4akHH8m4WPk4y7+dqVZ\nbQAygeoOMDzVJizwpzWaaunk9BW6x8vu/nIoTZgkSOO89xZrqO4+gwoKbco1qB0s\n4L/CYKijMXGDVp194FrRHolMvy9QXNnBIdaXdoKOUm6leBaoHD/BUCn9AoGAPjBo\nLjiR0KFqnmuemhbAL717TThSkxrXgovqFbY1kGW45AtQ8kxNKasqf1wGdiLeNOnG\ncdwvKuTm9nWKXy31yTiRPJz3ls4nC/Max3xu43QqqYFjNJRjbdNJHvdgonlI9IaO\nbaoWQ4KBA25nO0VI/iPySD/gQPKSWf5NbMQPcikCgYEArOUJx2WjDvcpI+TL/zr0\npYvtxbYWl/8QDyOGN2nA5nIc+hk7JQweuMSatctSrUCY7hy995wh0N0qRHfFP1v2\nNcynORKm9z6+kG3xq33XNe57mDz3Zd9cts78ANM73dmpz2bhsSRBgKPHNo40ZutR\narLHJwXDovewTq/t8eSKGtk=\n-----END PRIVATE KEY-----\n",
+  "client_email": "api-user@driver-gaze-data.iam.gserviceaccount.com",
+  "client_id": "110129623055036638109",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://accounts.google.com/o/oauth2/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/api-user%40driver-gaze-data.iam.gserviceaccount.com"
+}
